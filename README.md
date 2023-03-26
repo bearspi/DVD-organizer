@@ -9,7 +9,7 @@ You need to enter the Title, Genre, Director, and the Year of the Film
 Click to the **Save DVD** button to save it
 Click to the **Show DVDs** button and get the ID of the film
 Write the ID to DVDs physical box or on to the DVD
-##How to find a specific DVD
+## How to find a specific DVD
 Open the DVDs.txt and use a text editor find wanted DVDs ID
 
 # Coming Soon
